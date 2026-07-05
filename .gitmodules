@@ -5,6 +5,9 @@
 [submodule "scov"]
 	path = scov
 	url = https://github.com/m-metodiev/scov
+[submodule "thamesblock"]
+	path = thamesblock
+	url = https://github.com/cran/thamesblock
 [submodule "thamesmix"]
 	path = thamesmix
 	url = https://github.com/m-metodiev/thamesmix
